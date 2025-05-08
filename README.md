@@ -2,37 +2,31 @@
 
 ![KanMind Logo](assets/icons/logo_icon.svg)
 
-Dieses Projekt ist ein einfaches Frontend, das mit **Vanilla JavaScript** (reines JavaScript ohne Frameworks) erstellt wurde. Es wurde speziell entwickelt, um Schülern der **Developer Akademie** mit Backend-Erfahrung den Einstieg in kleinere Frontend-Anpassungen zu erleichtern.
+This project is a simple frontend built with **Vanilla JavaScript** (pure JavaScript without frameworks).
 
 ---
 
-## Voraussetzungen
+## Prerequisites
 
-- Ein funktionierendes Django-Backend (`KanMind`), das **nicht** in diesem Projekt enthalten ist.
-- Visual Studio Code mit der **Live Server**-Erweiterung oder eine ähnliche Möglichkeit, die `index.html` auf oberster Ebene lokal im Browser zu starten.
-
----
-
-## Nutzung
-
-1. Stelle sicher, dass das Backend `KanMind` läuft.
-2. Öffne dieses Projekt in **Visual Studio Code**.
-3. Rechtsklicke auf die Datei `index.html` auf oberster Ebene und wähle **Open with Live Server**, um das Projekt zu starten.
+- A working Django backend (`KanMind`), which is **not** included in this repository.
+- Visual Studio Code with the **Live Server** extension, or any tool that allows you to open the `index.html` file locally in the browser.
 
 ---
 
-## Ziel des Projekts
+## How to Use
 
-Dieses Frontend wurde bewusst mit **Vanilla JavaScript** erstellt, um die folgenden Ziele zu erreichen:
-
-- **Einfacher Einstieg**: Durch den Verzicht auf Frameworks wie React oder Angular bleibt der Code leicht verständlich und nachvollziehbar auch bei wenig Frontend-Erfahrung.
-- **Lernen durch Anpassung**: Schüler können den Code anpassen, um kleine Änderungen vorzunehmen und Frontend-Konzepte besser zu verstehen.
-- **Backend-Erweiterung**: Das Projekt lässt sich einfach an das bestehende Django-Backend `KanMind` anbinden.
+1. Make sure the `KanMind` backend is running.
+2. Open this project in **Visual Studio Code**.
+3. Right-click the `index.html` file in the root directory and select **"Open with Live Server"** to launch the project in your browser.
 
 ---
 
-## Hinweis
+## Project Goals
 
-Dieses Projekt ist **ausschließlich für Schüler der Developer Akademie** gedacht und nicht zur freien Nutzung oder Weitergabe freigegeben.
+This frontend was intentionally created using **Vanilla JavaScript** to achieve the following objectives:
+
+- **Ease of Entry**: By avoiding frameworks like React or Angular, the code remains simple and accessible, even to those with minimal frontend experience.
+- **Learning by Modifying**: Students can make small changes to better understand frontend concepts through hands-on learning.
+- **Backend Extension**: This project is easily integrable with the existing Django backend [KanMind Backend](https://github.com/mahapiri/kanmind_backend.git).
 
 ---
